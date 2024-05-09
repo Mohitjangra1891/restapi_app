@@ -32,7 +32,7 @@ class moviedata_provider extends ChangeNotifier {
     isLoading = true;
     final response = await http.get(Uri.parse(url));
     isLoading = true;
-    print('response waiting ');
+    print('response waiting   ');
 
     if (response.statusCode == 200) {
       print('response 200');
