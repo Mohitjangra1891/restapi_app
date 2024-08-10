@@ -1,9 +1,15 @@
 Introducing my new Flutter Project---MovieZone--- using OMDB Api to get the movies data with Provider 📱 State Management....
+
 Github Link:- https://lnkd.in/gYBAS5vP
+
 Api :-https://www.omdbapi.com/
+
 Featres:
+
 1.Load Movie data from the Api and show in the UI as a List.
+
 2.Adding Pagination in the Listview ---load more data from api after coming to the end of listview---
+
 3.Addind Movie Search functionallty --- You can search any movie by its name-
 
 screenshots:
