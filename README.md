@@ -1,8 +1,9 @@
 Introducing my new Flutter Project---MovieZone--- using OMDB Api to get the movies data with Provider 📱 State Management....
 
-Github Link:- https://lnkd.in/gYBAS5vP
-
 Api :-https://www.omdbapi.com/
+
+Web App -  https://restapi-app.vercel.app/
+Apk link - https://drive.google.com/drive/folders/1Uf9IYEd8wVVNfIgD12bvXZjKptcie4kP
 
 Featres:
 
